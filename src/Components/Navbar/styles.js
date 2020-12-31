@@ -16,7 +16,6 @@ export default makeStyles((theme) => ({
     alignItems: 'center',
     display: 'flex',
     textDecoration: 'none',
-    color: 'linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%)',
   },
   image: {
     marginRight: '10px',
@@ -52,6 +51,10 @@ export default makeStyles((theme) => ({
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
+  },
+  name: {
+    fontSize: '100px',
+    position: 'relative',
   },
   inputRoot: {
     color: 'inherit',
