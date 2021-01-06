@@ -15,7 +15,7 @@ const Navbar = ({ totalItems }) => {
     <>
       <AppBar position='fixed' className={classes.appBar} color='inherit'>
          <Toolbar>
-           <Typography component={Link} to="/" variant='h6' className={classes.title} color='primary' boxShadow='0 3px 5px 2px 255, 105, 135, 0.3'>
+           <Typography component={Link} to="/" variant='h6' className={classes.title} color='primary' boxshadow='0 3px 5px 2px 255, 105, 135, 0.3'>
               <img src={lumo} alt={lumo} height='30px' className={classes.image} />
               L
               U
