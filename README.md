@@ -1,4 +1,4 @@
-# Welcome To LUMO_app, a Shop where you can purchase your fovarites products and have them delivered to you at your door steps!
+# Welcome To LUMO_app, an online-shop where you can purchase your fovarites products and have them delivered to you at your door steps!
 
 visite:https://e-lumo.netlify.app/ to have and overview look at the web-app.
 
@@ -12,7 +12,7 @@ The available  countries for deivery are; Canada, Mexico, Nigeria and United Sta
 Try it pls, You would'nt be disappointed surely...
 
 The Card No is : 42 keep pressing 42 till the card is filled. 
-The Payment method is a demo that i used stripe.
+The Payment method is a demo that's I used stripe demo card.
 
 Thank you please if you like this project give it a star or contact me in my social media for more details...
 
